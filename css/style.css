@@ -388,9 +388,11 @@ h1{
     }
     #header img{
         position: absolute;
-        margin-left: 300px;
+        margin-left: 250px;
         transition: 0.35s ease;
-        margin-top: 1rem;
+        position: absolute;
+        width: 70px;
+        height: 70px;
     }
 }
 
